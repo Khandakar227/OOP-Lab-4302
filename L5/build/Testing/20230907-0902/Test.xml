@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20230907-0902-Experimental"
+	Name="DESKTOP-RK278E6"
+	Generator="ctest-3.27.3"
+	CompilerName="C:/MinGW/bin/g++.exe"
+	CompilerVersion="6.3.0"
+	OSName="Windows"
+	Hostname="DESKTOP-RK278E6"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="17031"
+	TotalPhysicalMemory="12167"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2208"
+	>
+	<Testing>
+		<StartDateTime>Sep 07 22:06 Bangladesh Standard Time</StartDateTime>
+		<StartTestTime>1694102776</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 07 22:06 Bangladesh Standard Time</EndDateTime>
+		<EndTestTime>1694102776</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
